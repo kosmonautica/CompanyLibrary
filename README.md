@@ -29,6 +29,20 @@ Nürnberg, September 2020
 | Denkwerkzeuge der Kreativität und Innovation | Rustler | [@tobleis](https://twitter.com/tobleis) | 
 | Komplexithoden | Niels Pfläging | [@tobleis](https://twitter.com/tobleis) | 
 | Digital Innovation Playbook | Dark Horse Berlin | [@tobleis](https://twitter.com/tobleis) | 
+| The Score Takes Care of Itself | Bill Walsh |[@dpaessler](https://twitter.com/dpaessler)|
+| Zero To One | Peter Thiel |[@dpaessler](https://twitter.com/dpaessler)|
+| Burn-out - Wenn die Maske zerbricht: Wie man Überbelastung erkennt und neue Wege geht |Manfred Nelting|[@dpaessler](https://twitter.com/dpaessler)|
+| Start With Why | Simon Sinek |[@PatrickNdmr](https://twitter.com/PatrickNdmr)|
+| The Infinite Game | Simon Sinek | [@dpaessler](https://twitter.com/dpaessler) |
+| Per Anhalter durch die Galaxis | Douglas Adams | [@khgdrn](https://twitter.com/khgdrn) |
+| User Story Mapping | Jeff Patton | [@ArminSchubert](https://twitter.com/ArminSchubert) |
+| The Happiness Advantage: The Seven Principles of Positive Psychology that Fuel Success and Performance at Work | Shawn Achor | [@ArminSchubert](https://twitter.com/ArminSchubert) |
+| Positivity: Groundbreaking Research To Release Your Inner Optimist And Thrive | Barbara Fredrickson | [@ArminSchubert](https://twitter.com/ArminSchubert) |
+| Knappheit: Was es mit uns macht, wenn wir zu wenig haben | Sendhil Mullainathan | [@ArminSchubert](https://twitter.com/ArminSchubert) |
+| Irgendwas von „???“ |  | [@ArminSchubert](https://twitter.com/ArminSchubert) |
+| 24 Work Hacks | Tom Mois und Corinna Baldauf | [@NicolausKorte](https://twitter.com/NicolausKorte) |
+
+[@name](https://twitter.com/name)
 
 
 TODO: add all the other books
