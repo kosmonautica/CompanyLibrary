@@ -58,5 +58,7 @@ Nürnberg, September 2020
 
 |  |  | [@name](https://twitter.com/name) |
 
+TODO: check for Tim's books
+
 
 TODO: add all the other books
