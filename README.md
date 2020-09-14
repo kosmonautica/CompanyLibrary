@@ -29,3 +29,6 @@ Nürnberg, September 2020
 | Denkwerkzeuge der Kreativität und Innovation | Rustler | [@tobleis](https://twitter.com/tobleis) | 
 | Komplexithoden | Niels Pfläging | [@tobleis](https://twitter.com/tobleis) | 
 | Digital Innovation Playbook | Dark Horse Berlin | [@tobleis](https://twitter.com/tobleis) | 
+
+
+TODO: add all the other books
