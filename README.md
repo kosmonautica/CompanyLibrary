@@ -29,6 +29,8 @@ Nürnberg, September 2020
 | Denkwerkzeuge der Kreativität und Innovation | Rustler | [@tobleis](https://twitter.com/tobleis) | 
 | Komplexithoden | Niels Pfläging | [@tobleis](https://twitter.com/tobleis) | 
 | Digital Innovation Playbook | Dark Horse Berlin | [@tobleis](https://twitter.com/tobleis) | 
+| Let My People Go Surfing: The Education of a Reluctant Businessman--Including 10 More Years of Business Unusual  | by Yvon Chouinard und Naomi Klein | [@tobleis](https://twitter.com/tobleis) | 
+| Körpersprache | by Samy Molcho and Klinger/Lusznat | [@tobleis](https://twitter.com/tobleis) | 
 | The Score Takes Care of Itself | Bill Walsh |[@dpaessler](https://twitter.com/dpaessler)|
 | Zero To One | Peter Thiel |[@dpaessler](https://twitter.com/dpaessler)|
 | Burn-out - Wenn die Maske zerbricht: Wie man Überbelastung erkennt und neue Wege geht |Manfred Nelting|[@dpaessler](https://twitter.com/dpaessler)|
@@ -54,6 +56,17 @@ Nürnberg, September 2020
 | Der Termin: Ein Roman über Projektmanagement | Tom DeMarco | [@irene_kuhn](https://twitter.com/irene_kuhn) |
 | Do More Great Work: Stop the Busywork, and Start the Work That Matters. | Michael Bungay Stanier | [@irene_kuhn](https://twitter.com/irene_kuhn) |
 | Formulierungskunst: Ein rhetorischer Leitfaden für Gesprächs- und Vortragssituationen | Leif Frenzel | [@irene_kuhn](https://twitter.com/irene_kuhn) |
+| Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization | Dave Logan | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Reinventing Organizations | Frederic Laloux | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Theorie U - Von der Zukunft her führen: Presencing als soziale Technik | C. Otto Scharmer | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Spiral Dynamics: Mastering Values, Leadership and Change | Don Edward Beck und Christopher Cowan | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Gewaltfreie Kommunikation: Eine Sprache des Lebens | Marshall B. Rosenberg und Ingrid Holler | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Clean Language:Revealing Metaphors and Opening Minds: Revealing Metaphors and Opening Minds | Wendy Sullivan und Judy Rees | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Brave New World | Aldous Huxley | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Mein allerbestes Jahr: Ziele erreichen - dem Leben Richtung geben | Sabine Claus und Gunther Schmidt | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Ziele erreichen | Autor unklar, da mehrere Bücher möglich | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+|Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) | Chade-Meng Tan | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+
 
 
 |  |  | [@name](https://twitter.com/name) |
