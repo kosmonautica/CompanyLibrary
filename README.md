@@ -41,8 +41,22 @@ Nürnberg, September 2020
 | Knappheit: Was es mit uns macht, wenn wir zu wenig haben | Sendhil Mullainathan | [@ArminSchubert](https://twitter.com/ArminSchubert) |
 | Irgendwas von „???“ |  | [@ArminSchubert](https://twitter.com/ArminSchubert) |
 | 24 Work Hacks | Tom Mois und Corinna Baldauf | [@NicolausKorte](https://twitter.com/NicolausKorte) |
+| The User's Guide to the Human Mind | Shawn T. Smith | [@gazebo_c](https://twitter.com/gazebo_c) |
+| Psychologie lernen | Hans-Peter Nolting und Peter Paulus | [@gazebo_c](https://twitter.com/gazebo_c) |
+| No Hard Feelings - Emotions at work (and how they help us succeed) | Liz Fosslien und Mollie West Duffy | [@gazebo_c](https://twitter.com/gazebo_c) |
+| Den Geist beruhigen - Eine illustrierte Einführung in die Meditation | Matthew Johnstone | [@gazebo_c](https://twitter.com/gazebo_c) |
+| The Listening Space - A New Path to Personal Discovery | Tamsin Hartley | [@gazebo_c](https://twitter.com/gazebo_c) |
+| Daring Greatly | Brené Brown | [@gazebo_c](https://twitter.com/gazebo_c) |
+| CTRL SHIFT - 50 Games for 50 ****ing Days Like Today | Mike Bonifer und Jessie Shternshus | [@gazebo_c](https://twitter.com/gazebo_c) |
+| Führen Leisten Leben: Wirksames Management für eine neue Welt  | Fredmund Malik | [@ArminSchubert](https://twitter.com/ArminSchubert) |
+| From Contempt to Curiosity: Creating the Conditions for Groups to Collaborate Using Clean Language and Systemic Modelling  | Caitlin Walker | [@irene_kuhn](https://twitter.com/irene_kuhn) |
+| The Coach's Casebook: Mastering the twelve traits that trap us | Geoff Watts, Kim Morgan, et al. | [@irene_kuhn](https://twitter.com/irene_kuhn) |
+| Der Termin: Ein Roman über Projektmanagement | Tom DeMarco | [@irene_kuhn](https://twitter.com/irene_kuhn) |
+| Do More Great Work: Stop the Busywork, and Start the Work That Matters. | Michael Bungay Stanier | [@irene_kuhn](https://twitter.com/irene_kuhn) |
+| Formulierungskunst: Ein rhetorischer Leitfaden für Gesprächs- und Vortragssituationen | Leif Frenzel | [@irene_kuhn](https://twitter.com/irene_kuhn) |
 
-[@name](https://twitter.com/name)
+
+|  |  | [@name](https://twitter.com/name) |
 
 
 TODO: add all the other books
