@@ -66,6 +66,22 @@ Nürnberg, September 2020
 | Mein allerbestes Jahr: Ziele erreichen - dem Leben Richtung geben | Sabine Claus und Gunther Schmidt | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 | Ziele erreichen | Autor unklar, da mehrere Bücher möglich | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 |Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) | Chade-Meng Tan | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Phoenix Project: A Novel about It, Devops, and Helping Your Business Win | Gene Kim, Kevin Behr, et al. | [@HerrStachel](https://twitter.com/HerrStachel) |
+| Code Complete: A Practical Handbook of Software Construction: A Practical Handbook of Software Costruction | Steve McConnell | [@HerrStachel](https://twitter.com/HerrStachel) |
+| TDD Destilled (das Buch finde ich nicht, wie heißt das richtig?) | TODO | [@HerrStachel](https://twitter.com/HerrStachel) |
+| Know Your Enemy (das Buch finde ich nicht, wie heißt das richtig?) | TODO | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
+| Elegant Puzzle for Managers (das Buch finde ich nicht, wie heißt das richtig?) | TODO | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
+| Range: Why Generalists Triumph in a Specialized World | David Epstein | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
+| Originals: How Non-Conformists Move the World | Adam Grant, Fred Sanders, et al. | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
+| Skunk Works: A Personal Memoir of My Years at Lockheed | Leo Janos und Ben R. Rich | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
+| Peopleware: Productive Projects and Teams | Tom DeMarco | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
+| The Pragmatic Programmer. From Journeyman to Master | Andrew Hunt, David Thomas, et al. | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) / [@nagel_kl](https://twitter.com/nagel_kl) |
+| Agile!: The Good, the Hype and the Ugly | Bertrand Meyer | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
+| The Mythical Man-Month. Essays on Software Engineering | Frederick P. Brooks | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) / [@nagel_kl](https://twitter.com/nagel_kl) / [@HartwigHenning](https://twitter.com/https://twitter.com/HartwigHenning) |
+| Extreme Programming Explained: Embrace Change | Kent Beck und Cynthia Andres | [@nagel_kl](https://twitter.com/nagel_kl) |
+| Weniger schlecht programmieren | Katrin Passig und Johannes Jander | [@HartwigHenning](https://twitter.com/https://twitter.com/HartwigHenning) |
+| Clean Code: A Handbook of Agile Software Craftsmanship | Robert C. Martin | [@KubitzTassilo](https://twitter.com/KubitzTassilo) |
+| Refactoring: Improving the Design of Existing Code | Martin Fowler | [@KubitzTassilo](https://twitter.com/KubitzTassilo) |
 
 
 
