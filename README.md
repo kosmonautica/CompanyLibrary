@@ -57,10 +57,10 @@ Nürnberg, September 2020
 | Do More Great Work: Stop the Busywork, and Start the Work That Matters. | Michael Bungay Stanier | [@irene_kuhn](https://twitter.com/irene_kuhn) |
 | Formulierungskunst: Ein rhetorischer Leitfaden für Gesprächs- und Vortragssituationen | Leif Frenzel | [@irene_kuhn](https://twitter.com/irene_kuhn) |
 | Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization | Dave Logan | [@RuggeriDE](https://twitter.com/RuggeriDE) |
-| Reinventing Organizations | Frederic Laloux | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Reinventing Organizations | Frederic Laloux | [@RuggeriDE](https://twitter.com/RuggeriDE) / [@MelanieWohnert](https://twitter.com/MelanieWohnert) |
 | Theorie U - Von der Zukunft her führen: Presencing als soziale Technik | C. Otto Scharmer | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 | Spiral Dynamics: Mastering Values, Leadership and Change | Don Edward Beck und Christopher Cowan | [@RuggeriDE](https://twitter.com/RuggeriDE) |
-| Gewaltfreie Kommunikation: Eine Sprache des Lebens | Marshall B. Rosenberg und Ingrid Holler | [@RuggeriDE](https://twitter.com/RuggeriDE) |
+| Gewaltfreie Kommunikation: Eine Sprache des Lebens | Marshall B. Rosenberg und Ingrid Holler | [@RuggeriDE](https://twitter.com/RuggeriDE) / [@rosenthaltech](https://twitter.com/rosenthaltech) |
 | Clean Language:Revealing Metaphors and Opening Minds: Revealing Metaphors and Opening Minds | Wendy Sullivan und Judy Rees | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 | Brave New World | Aldous Huxley | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 | Mein allerbestes Jahr: Ziele erreichen - dem Leben Richtung geben | Sabine Claus und Gunther Schmidt | [@RuggeriDE](https://twitter.com/RuggeriDE) |
@@ -78,11 +78,21 @@ Nürnberg, September 2020
 | The Pragmatic Programmer. From Journeyman to Master | Andrew Hunt, David Thomas, et al. | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) / [@nagel_kl](https://twitter.com/nagel_kl) |
 | Agile!: The Good, the Hype and the Ugly | Bertrand Meyer | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
 | The Mythical Man-Month. Essays on Software Engineering | Frederick P. Brooks | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) / [@nagel_kl](https://twitter.com/nagel_kl) / [@HartwigHenning](https://twitter.com/https://twitter.com/HartwigHenning) |
-| Extreme Programming Explained: Embrace Change | Kent Beck und Cynthia Andres | [@nagel_kl](https://twitter.com/nagel_kl) |
+| Extreme Programming Explained: Embrace Change | Kent Beck und Cynthia Andres | [@nagel_kl](https://twitter.com/nagel_kl) / [@bjornradon](https://twitter.com/bjornradon) |
 | Weniger schlecht programmieren | Katrin Passig und Johannes Jander | [@HartwigHenning](https://twitter.com/https://twitter.com/HartwigHenning) |
 | Clean Code: A Handbook of Agile Software Craftsmanship | Robert C. Martin | [@KubitzTassilo](https://twitter.com/KubitzTassilo) |
 | Refactoring: Improving the Design of Existing Code | Martin Fowler | [@KubitzTassilo](https://twitter.com/KubitzTassilo) |
-
+| Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to ... or Ill Luck, Work with Them in Some | Avram Joel Spolsky | [@rosenthaltech](https://twitter.com/rosenthaltech) |
+| THE IN-CAR-NATION CODE - Making the digital transformation succeed | Engelbert Wimmer | [@FrankyCONNOR](https://twitter.com/FrankyCONNOR) |
+| Reguläre Ausdrücke | Jeffrey E. F. Friedl | [@bjornradon](https://twitter.com/bjornradon) |
+| Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers | Alexander Oserwalder und Yves Pigneur | [@RGIntercultural](https://twitter.com/https://twitter.com/RGIntercultural) |
+| Die neue Entscheidungskultur - Mit gemeinsam getragenen Entscheidungen zum Erfolg | Richard Graf | [@David_Beu_CGN](https://twitter.com/David_Beu_CGN) |
+| The Culture Code: The Secrets of Highly Successful Groups | Daniel Coyle | [@schotterflechte](https://twitter.com/schotterflechte) / [@YingaWei](https://twitter.com/YingaWei) |
+| The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power | Christopher Avery | [@AgileNicy](https://twitter.com/AgileNicy) |
+| Ein Algorithmus hat kein Taktgefühl: Wo künstliche Intelligenz sich irrt, warum uns das betrifft und was wir dagegen tun können | Katharina Zweig | [@AgileNicy](https://twitter.com/AgileNicy) |
+| Testen in Scrum-Projekten: Leitfaden für Softwarequalität in der agilen Welt | Tilo Linz | [@AgileNicy](https://twitter.com/AgileNicy) |
+| Agile Testing: A Practical Guide for Testers and Agile Teams | Lisa Crispin | [@AgileNicy](https://twitter.com/AgileNicy) |
+| The Five Dysfunctions of a Team - A Leadership Fable | Patrick M. Lencioni | [@AgileNicy](https://twitter.com/AgileNicy) |
 
 
 |  |  | [@name](https://twitter.com/name) |
