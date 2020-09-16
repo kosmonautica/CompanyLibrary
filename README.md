@@ -66,8 +66,8 @@ Nürnberg, September 2020
 | Mein allerbestes Jahr: Ziele erreichen - dem Leben Richtung geben | Sabine Claus und Gunther Schmidt | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 | Ziele erreichen | Autor unklar, da mehrere Bücher möglich | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 |Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) | Chade-Meng Tan | [@RuggeriDE](https://twitter.com/RuggeriDE) |
-| Phoenix Project: A Novel about It, Devops, and Helping Your Business Win | Gene Kim, Kevin Behr, et al. | [@HerrStachel](https://twitter.com/HerrStachel) |
-| Code Complete: A Practical Handbook of Software Construction: A Practical Handbook of Software Costruction | Steve McConnell | [@HerrStachel](https://twitter.com/HerrStachel) |
+| Phoenix Project: A Novel about It, Devops, and Helping Your Business Win | Gene Kim, Kevin Behr, et al. | [@HerrStachel](https://twitter.com/HerrStachel) / [@JoEgenolf](https://twitter.com/JoEgenolf)|
+| Code Complete: A Practical Handbook of Software Construction: A Practical Handbook of Software Costruction | Steve McConnell | [@HerrStachel](https://twitter.com/HerrStachel) / [@IT_Digital_AC](https://twitter.com/IT_Digital_AC) |
 | TDD Destilled (das Buch finde ich nicht, wie heißt das richtig?) | TODO | [@HerrStachel](https://twitter.com/HerrStachel) |
 | Know Your Enemy (das Buch finde ich nicht, wie heißt das richtig?) | TODO | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
 | Elegant Puzzle for Managers (das Buch finde ich nicht, wie heißt das richtig?) | TODO | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
@@ -81,7 +81,7 @@ Nürnberg, September 2020
 | Extreme Programming Explained: Embrace Change | Kent Beck und Cynthia Andres | [@nagel_kl](https://twitter.com/nagel_kl) / [@bjornradon](https://twitter.com/bjornradon) |
 | Weniger schlecht programmieren | Katrin Passig und Johannes Jander | [@HartwigHenning](https://twitter.com/https://twitter.com/HartwigHenning) |
 | Clean Code: A Handbook of Agile Software Craftsmanship | Robert C. Martin | [@KubitzTassilo](https://twitter.com/KubitzTassilo) |
-| Refactoring: Improving the Design of Existing Code | Martin Fowler | [@KubitzTassilo](https://twitter.com/KubitzTassilo) |
+| Refactoring: Improving the Design of Existing Code | Martin Fowler | [@KubitzTassilo](https://twitter.com/KubitzTassilo) / [@Herrloesch](https://twitter.com/Herrloesch) / [@IT_Digital_AC](https://twitter.com/IT_Digital_AC)|
 | Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to ... or Ill Luck, Work with Them in Some | Avram Joel Spolsky | [@rosenthaltech](https://twitter.com/rosenthaltech) |
 | THE IN-CAR-NATION CODE - Making the digital transformation succeed | Engelbert Wimmer | [@FrankyCONNOR](https://twitter.com/FrankyCONNOR) |
 | Reguläre Ausdrücke | Jeffrey E. F. Friedl | [@bjornradon](https://twitter.com/bjornradon) |
@@ -93,7 +93,16 @@ Nürnberg, September 2020
 | Testen in Scrum-Projekten: Leitfaden für Softwarequalität in der agilen Welt | Tilo Linz | [@AgileNicy](https://twitter.com/AgileNicy) |
 | Agile Testing: A Practical Guide for Testers and Agile Teams | Lisa Crispin | [@AgileNicy](https://twitter.com/AgileNicy) |
 | The Five Dysfunctions of a Team - A Leadership Fable | Patrick M. Lencioni | [@AgileNicy](https://twitter.com/AgileNicy) |
-|  |  | [@name](https://twitter.com/name) |
+| Anleitung zum Unglücklichsein | Paul Watzlawick | [@justEmanuelK](https://twitter.com/justEmanuelK) |
+| ReWork: Change the Way You Work Forever | David Heinemeier Hansson und Jason Fried | [@timothep](https://twitter.com/timothep) |
+| The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life | Mark Manson | [@timothep](https://twitter.com/timothep) |
+| Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling | Matthew Dicks und Dan Kennedy | [@timothep](https://twitter.com/timothep) |
+| Softwarearchitekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten | Stefan Zörner | [@Herrloesch](https://twitter.com/Herrloesch) |
+| Effektive Softwarearchitekturen: Ein praktischer Leitfaden | Gernot Starke | [@Herrloesch](https://twitter.com/Herrloesch) |
+| Working Effectively with Legacy Code | Michael C. Feathers | [@YellowBrickC](https://twitter.com/YellowBrickC) |
+| The Book of Basketball: The NBA According to The Sports Guy | Bill Simmons und Malcolm Gladwell | [@ba2019](https://twitter.com/ba2019) |
+| [Emanuels Leseliste](https://t.co/00Be0ceK7g?amp=1)Emanuels Leseliste | Diverse | [@justEmanuelK](https://twitter.com/justEmanuelK) |
+
 
 |  |  | [@name](https://twitter.com/name) |
 
