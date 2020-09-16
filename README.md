@@ -93,7 +93,7 @@ Nürnberg, September 2020
 | Testen in Scrum-Projekten: Leitfaden für Softwarequalität in der agilen Welt | Tilo Linz | [@AgileNicy](https://twitter.com/AgileNicy) |
 | Agile Testing: A Practical Guide for Testers and Agile Teams | Lisa Crispin | [@AgileNicy](https://twitter.com/AgileNicy) |
 | The Five Dysfunctions of a Team - A Leadership Fable | Patrick M. Lencioni | [@AgileNicy](https://twitter.com/AgileNicy) |
-
+|  |  | [@name](https://twitter.com/name) |
 
 |  |  | [@name](https://twitter.com/name) |
 
