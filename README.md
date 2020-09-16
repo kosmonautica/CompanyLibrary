@@ -66,7 +66,7 @@ Nürnberg, September 2020
 | Mein allerbestes Jahr: Ziele erreichen - dem Leben Richtung geben | Sabine Claus und Gunther Schmidt | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 | Ziele erreichen | Autor unklar, da mehrere Bücher möglich | [@RuggeriDE](https://twitter.com/RuggeriDE) |
 |Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) | Chade-Meng Tan | [@RuggeriDE](https://twitter.com/RuggeriDE) |
-| Phoenix Project: A Novel about It, Devops, and Helping Your Business Win | Gene Kim, Kevin Behr, et al. | [@HerrStachel](https://twitter.com/HerrStachel) / [@JoEgenolf](https://twitter.com/JoEgenolf)|
+| Phoenix Project: A Novel about It, Devops, and Helping Your Business Win | Gene Kim, Kevin Behr, et al. | [@HerrStachel](https://twitter.com/HerrStachel) / [@JoEgenolf](https://twitter.com/JoEgenolf) / [@lxztlr](https://twitter.com/lxztlr)|
 | Code Complete: A Practical Handbook of Software Construction: A Practical Handbook of Software Costruction | Steve McConnell | [@HerrStachel](https://twitter.com/HerrStachel) / [@IT_Digital_AC](https://twitter.com/IT_Digital_AC) |
 | TDD Destilled (das Buch finde ich nicht, wie heißt das richtig?) | TODO | [@HerrStachel](https://twitter.com/HerrStachel) |
 | Know Your Enemy (das Buch finde ich nicht, wie heißt das richtig?) | TODO | [@_yuriy_kulikov_](https://twitter.com/_yuriy_kulikov_) |
@@ -101,12 +101,21 @@ Nürnberg, September 2020
 | Effektive Softwarearchitekturen: Ein praktischer Leitfaden | Gernot Starke | [@Herrloesch](https://twitter.com/Herrloesch) |
 | Working Effectively with Legacy Code | Michael C. Feathers | [@YellowBrickC](https://twitter.com/YellowBrickC) |
 | The Book of Basketball: The NBA According to The Sports Guy | Bill Simmons und Malcolm Gladwell | [@ba2019](https://twitter.com/ba2019) |
-| [Emanuels Leseliste](https://t.co/00Be0ceK7g?amp=1)Emanuels Leseliste | Diverse | [@justEmanuelK](https://twitter.com/justEmanuelK) |
+| [Emanuels Leseliste](https://t.co/00Be0ceK7g?amp=1) | Diverse | [@justEmanuelK](https://twitter.com/justEmanuelK) |
+| Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations | Nicole Forsgren, Jez Hunble, et al. | [@lxztlr](https://twitter.com/lxztlr) |
+| Making Work Visible: Exposing Time Theft to Optimize Work & Flow | Dominica Degrandis | [@lxztlr](https://twitter.com/lxztlr) |
+| The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data | Gene Kim | [@lxztlr](https://twitter.com/lxztlr) |
+| Domain-Driven Design: Tackling Complexity in the Heart of Software| Eric J. Evans | [@lxztlr](https://twitter.com/lxztlr) |
+| Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen | Carola Lilienthal | [@lxztlr](https://twitter.com/lxztlr) |
+| Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation (Addison-Wesley Signature S...
+Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation | Jez Humble und David Farley | [@lxztlr](https://twitter.com/lxztlr) |
+| Rolling Rocks Downhill: How to Ship YOUR Software Projects On Time, Every Time | Clarke Ching | [@lxztlr](https://twitter.com/lxztlr) |
+| The Bottleneck Rules: How to Get More Done (When Working Harder isn't Working) | Clarke Ching | [@lxztlr](https://twitter.com/lxztlr) |
+| [Beta Codex Leseliste](https://t.co/Ufl4Ml3sou?amp=1) | Diverse | [@BetaCodex_DE](https://twitter.com/BetaCodex_DE) |
 
 
 |  |  | [@name](https://twitter.com/name) |
 
-TODO: check for Tim's books
 
 
 TODO: add all the other books
